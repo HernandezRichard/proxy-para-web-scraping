@@ -8,7 +8,7 @@ Si eres parte del mundo del web scraping, ya sea de forma profesional o como afi
 
 ### Proxies Residenciales
 
-Los **[proxies residenciales](https://9proxy.com/pricing?utm_source=Platform&utm_medium=Blog&utm_campaign=00007&utm_id=lucia314)** son altamente recomendados cuando se realiza web scraping a gran escala. Debido a que las IPs provienen de usuarios reales, estos proxies son mucho más difíciles de detectar por los sitios web. Además, cuentan con una tasa de éxito mucho mayor en sitios difíciles de raspar.
+Los **[proxies residenciales](https://the9proxy.short.gy/github7-pricing-lucia314)** son altamente recomendados cuando se realiza web scraping a gran escala. Debido a que las IPs provienen de usuarios reales, estos proxies son mucho más difíciles de detectar por los sitios web. Además, cuentan con una tasa de éxito mucho mayor en sitios difíciles de raspar.
 
 ### Proxies de Centros de Datos
 
@@ -29,7 +29,7 @@ Los proxies rotativos cambian automáticamente su IP tras cada solicitud o despu
 
 ### 9Proxy
 
-Con más de 20 millones de IPs y un sistema de rotación, **[9Proxy](https://9proxy.com/pricing?utm_source=Platform&utm_medium=Blog&utm_campaign=00007&utm_id=lucia314)** es una excelente opción para scraping. Ofrecen proxies residenciales rápidos que soportan SOCKS5/HTTP/HTTPS. Aunque su base de IPs es más reducida en comparación con otros proveedores, la calidad y baja tasa de bloqueo garantizan una conexión estable y precios competitivos.
+Con más de 20 millones de IPs y un sistema de rotación, **[9Proxy](https://the9proxy.short.gy/github7-pricing-lucia314)** es una excelente opción para scraping. Ofrecen proxies residenciales rápidos que soportan SOCKS5/HTTP/HTTPS. Aunque su base de IPs es más reducida en comparación con otros proveedores, la calidad y baja tasa de bloqueo garantizan una conexión estable y precios competitivos.
 
 ### ABCproxy
 
